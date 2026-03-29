@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    background-color: #f0f8ff;
+    text-align: center;
+}
+
+.calculadora{
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+input[type="button"]{
+    width: 60px;
+    height: 40px;
+    margin: 3px;
+}
+
+.pantalla{
+    width: 250px;
+    height: 30px;
+}
+
+fieldset{
+    width: 400px;
+    margin: auto;
+    background-color: #ffe4b5;
+    padding: 20px;
+}
+
+.boton-enviar{
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 25px;
+}
+
+.boton-borrar{
+    background-color: purple;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 25px;
+}
